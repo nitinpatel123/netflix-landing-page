@@ -4,7 +4,7 @@ A responsive Netflix landing page clone built using **HTML, CSS, and JavaScript*
 This project replicates the UI and basic interactive behavior of Netflix’s homepage for learning and practice purposes.
 
 ## 🔗 Live Demo
-👉 (Add Vercel link here after deployment)
+👉 (https://vercel.com/nitin-patels-projects-2cd24d4a?repo=https://github.com/nitinpatel123/netflix-landing-page)
 
 ## 📌 Features
 - Responsive Netflix-style UI
